@@ -1,26 +1,26 @@
-# Project Title (Update)
+# Greeting Card App
 
-Add a description of your project here.
+This project contains basic code for a greeting card program that runs using the Kotlin language in Android Studio as a mobile application.
 
 ## Instructions for Build and Use
 
 Steps to build and/or run the software:
 
-1. First step here
-2.
-3.
+1. Download and set up Android Studio
+2. Set up a virtual machine device
+3. Create new project and copy code
 
 Instructions for using the software:
 
-1. First step here
-2.
-3.
+1. Start virtual machine
+2. Run software
+3. refresh virtual machine to update changes
 
 ## Development Environment
 
 To recreate the development environment, you need the following software and/or libraries with the specified versions:
 
-* First thing here
+* Android Studio
 *
 *
 
@@ -28,7 +28,7 @@ To recreate the development environment, you need the following software and/or 
 
 I found these websites useful in developing this software:
 
-* [Website Title](Link)
+* [Android Studio Official Site](https://developer.android.com/studio)
 *
 *
 
@@ -36,6 +36,6 @@ I found these websites useful in developing this software:
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
-* [ ] First thing here
-* [ ]
-* [ ]
+* [ ] Develop a working app that I can run on my phone
+* [ ] Set up user interaction so the app reacts to clicks, drags, etc
+* [ ] Create a UI that the user can interact with
